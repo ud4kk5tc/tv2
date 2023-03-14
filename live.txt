@@ -154,7 +154,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
-🌽4K综合,#genre#
+🍎4K综合,#genre#
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
@@ -300,7 +300,7 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
 
-🌽少儿动画,#genre#
+🍌少儿动画,#genre#
 
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
