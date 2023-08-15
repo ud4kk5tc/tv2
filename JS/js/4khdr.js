@@ -12,7 +12,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
+         	'Cookie':'hvLw_2132_saltkey=x89cF7aD; hvLw_2132_lastvisit=1691840602; hvLw_2132_visitedfid=2; hvLw_2132_sendmail=1; _clck=hvltzs|2|fe6|0|1234; hvLw_2132_seccodecSAnCu=3946.be6a562c4a0d8c216f; hvLw_2132_ulastactivity=1692098855%7C0; hvLw_2132_auth=2100ISnlXuyMqwh%2F6zbKmkP0wwqeBYMJIuKWGDnRBdXbiclX2dbte5kkuco6lTmzWtigTxrANe0v67JwVqwCAgqrdg; hvLw_2132_lastcheckfeed=99213%7C1692098855; hvLw_2132_checkfollow=1; hvLw_2132_lip=163.204.42.61%2C1692098855; hvLw_2132_sid=0; hvLw_2132_checkpm=1; _clsk=1jdfenl|1692098859545|2|1|w.clarity.ms/collect; hvLw_2132_lastact=1692098872%09index.php%09forumdisplay; hvLw_2132_st_t=99213%7C1692098872%7Cf3678f43e6d8b07e93f64d5769c382aa; hvLw_2132_forum_lastvisit=D_2_1692098872',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
