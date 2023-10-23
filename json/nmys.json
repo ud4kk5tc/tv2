@@ -17,7 +17,7 @@
       "homeVodImg": "//@data-echo",
       "homeVodImgR": "",
       "homeVodMark": "/div/span[2]/span/text()",
-      "cateUrl": "https://nmddd.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html",
+      "cateUrl": "https://nmddd.com/vod-list-id-%7BcateId%7D-pg-%7BcatePg%7D-order--by-%7Bby%7D-class-0-year-%7Byear%7D-letter--area-%7Barea%7D-lang-.html",
       "cateVodNode": "//ul[@class='resize_list']/li/a",
       "cateVodName": "/@title",
       "cateVodId": "/@href",
